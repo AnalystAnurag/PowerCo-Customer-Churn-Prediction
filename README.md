@@ -47,8 +47,8 @@ PowerCo partnered with BCG to diagnose why SME customers were leaving. The engag
 
 Two datasets were provided for the SME client segment:
 
-- [`client_data.csv`](data/client_data.csv)` — 14,606 records × 26 features: consumption, contract dates, sales channel, forecasted usage/pricing, margins, and the binary `churn` label.
-- [`price_data.csv`](data/price_data.csv) — 193,002 records: daily electricity pricing (peak, off-peak, mid-peak — variable and fixed) per customer for 2015–2016.
+- [`client_data.csv`](client_data.csv)` — 14,606 records × 26 features: consumption, contract dates, sales channel, forecasted usage/pricing, margins, and the binary `churn` label.
+- [`price_data.csv`](price_data.csv) — 193,002 records: daily electricity pricing (peak, off-peak, mid-peak — variable and fixed) per customer for 2015–2016.
 
 **Target variable:** `churn` — highly imbalanced, with only **9.7%** of clients having churned, which shaped every downstream modelling decision.
 
