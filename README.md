@@ -157,18 +157,7 @@ jupyter notebook BCG_PowerCo_Customer_Churn_Research_Paper.ipynb
 
 ## 📚 Background Reading
 
-The full academic writeup — including formal problem framing, literature review, statistical methodology, and detailed discussion — is available in [`Minor_Project_251260260051.pdf`](./Minor_Project_251260260051.pdf).
+The full academic writeup — including formal problem framing, literature review, statistical methodology, and detailed discussion — is available in [`Project Report.pdf`](./Project Report.pdf).
 
 ---
 
-## 👤 Author
-
-**Anurag Dash**
-Manipal School of Commerce and Economics, Manipal Academy of Higher Education (MAHE)
-Guided by Dr. Rakshit Bhandary, Assistant Professor
-
----
-
-## 📄 License
-
-This project is shared for educational and portfolio purposes. Underlying datasets are proprietary to the BCG X job simulation and are not redistributed here.
